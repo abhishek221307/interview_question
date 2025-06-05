@@ -1,0 +1,36 @@
+Interview questions in todays client (Mercedes Benz ) round of deloitte..
+1. Tell me about yourself
+2. What all resources you have created in azure.
+3. How will you integrate akv and aks
+4. What are two ways to access the akv secret.
+5. Have you used ingress controller.?
+6. Is it recommeded to use app gateway as ingress controller.What are the draw backs of using app gateway as ingress controller.
+7. Have you written ingress controller yaml file, what are the key specifications in it?
+8. Have you worked on traffic ingress controller.
+9. Have you worked on app gateway.
+10. How will you configure frontend and backend in app gateway.
+11. Where you can set the priority for backend.
+12. What is listener in app gateway
+13. What is backend setting in app gateway
+14. What security points will you consider while setting up an AKS cluster.
+15. How can you change the sku of an existing cluster without any downtime? Is it possible?
+16. Can you create multiple node pools in cluster.
+17. Within one node pool can you create nodes with different os type.
+18. How you organize code in terraform.
+19. How tfvar and variable file are interlinked.
+20. How can you create  conditions in terraform and its syntax.
+21. How will you point your local branch to remote branch without creating the remote branch locally.
+22. How will you setup pipeline from scratch.
+23. If your storage acc is private how will your agent reach storage account from azure devops .
+24. Explain pvt endpoint and service endpoint
+25. Which one takes priority. Tfvar, variable tf and -variable-file as inputs.
+26. Can we use two pools in same pipeline and how?
+27. How will you setup conditions in job execution in sequence on completion of previous job.
+28. How will you run jobs in parallel.
+29. Explain complete structure of terrafom pipeline.
+30. If your pipeline is hosted in repo A and variables in repo B..how will you set trigger for any changes in repo B
+31. What is the main purpose of having environments specific var files.
+32. How does monitoring work in backend.
+33. How you use grafana and datadog in monitoring.
+34. How do you integrate datadog.
+35. How does datadog visualise specific pods for a particular application.
