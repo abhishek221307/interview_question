@@ -26,3 +26,15 @@ Suppose you are provisioning infrastructure and keeping your statefle in local (
 You’re managing an existing deployment in Kubernetes, but you don’t know what secrets or credentials are currently in use. You want to retrieve the secrets from the cluster or namespace(s) where your services are already deployed.
 How does Kubernetes handle a service discovery with any cluster?
 what is stateful?
+
+
+
+Persistent Nitesh(Servival time 22minut out of 30 minut)
+1.How to deploy three tier architecture application.
+2.Which type of modular approach follow in terraform to provision resources?
+3.What is git merge conflict?
+4.How to optimize piplenine running time?
+5.What is difference between between app services and vm services?
+6.What is the benefits of AKS?
+7.Give me your introduction and tell about project.
+8.What is azure devops portal why we use it?
