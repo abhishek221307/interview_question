@@ -1,0 +1,28 @@
+Company - 
+Persistent Systems Ltd.
+
+Interview questions first round -
+
+
+
+Introduce yourself
+What is the difference between a reusable workflow and a composite action?
+Do you know How the gitHub action use to write ?
+What is action and how it works ?
+for checkout, what action you use? What version of action you use?
+for git  check out what version of actions you are using in your current pipeline?
+What is the difference between jobs, steps, and actions in workflow file?
+Have you ever heard about build metrics in a GitHub actions?
+what are the resource groups and how are you using the infrastructure management?
+So you ever worked on Azure monitor
+How can we set up a role based, control in Azure development the RBAC authentication?
+how can we configure auto scaling in AKS using Azure native tools?
+how the auto scaling works?
+How do you manage the state in  Terraform and when working in a team environment?
+how do you use a Terraform to provision AKS cluster and connect it to ACR, Azure Container Registry
+What is terraform init ?
+What is the difference between terraform plan and terraform apply ?
+Suppose you are provisioning infrastructure and keeping your statefle in local (for example) not keeping in any of the remote (SA / s3 bucket ) , somehow your local terraform tfstate file mistakenly deleted , how will you recover ? How we will do the things ?
+You’re managing an existing deployment in Kubernetes, but you don’t know what secrets or credentials are currently in use. You want to retrieve the secrets from the cluster or namespace(s) where your services are already deployed.
+How does Kubernetes handle a service discovery with any cluster?
+what is stateful?
