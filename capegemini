@@ -1,0 +1,11 @@
+Capegemine
+
+Introduce yourself 
+Write a yaml, 
+what is baremetal, 
+what is short shift in cicd, 
+If you have 10 vm modules in config how will you provisioned only 1 vm using pipeline
+What is condition in cicd
+Parameter in cicd,
+Write a provisioner block how will you use in vm.
+Backend module in Terra form
