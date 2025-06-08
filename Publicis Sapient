@@ -1,0 +1,20 @@
+Publicis Sapient
+1.introduce about your self 
+tell me about your recent project 
+2.what is vnet
+3.how you are balancing traffic in cloud
+4.how many type load balancer 
+5.what is priority in NSG
+6.service end point and private ?
+7.how to securely access your resources ?
+8.what is basin ho why it used?
+9.NGS rules ?
+10.how to restrict any service on resource
+11.what network topology you worked ?
+12.how to connect you on prem application to cloud
+13.where you store state file
+14.what is lifecycle in terraform
+15.if you ran a pipeline but your pipeline get failed at after apply and you stuck on lock state so how you will resolve this problem.
+16.if you are calling variable from keyvult but don't want to mention pipeline and terraform code how will do that 
+17.we have dev prod and staging brand and we want to run pipeline with condition when dev pass90% then only that pipeline Tigger. write condition on pipeline
+18.write a shell script for if VM disk get full 80% it will send alert mail.

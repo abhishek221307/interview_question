@@ -1,0 +1,45 @@
+Role - Senior Engineer - Azure Infra Services 
+
+Company - LTI Mindtree 
+
+Interview questions first round -
+
+Can you tell me about your projects that you have worked on ?
+
+What services have you used of azure ?
+
+Write Azure Pipeline using YAML and explain each stages?
+
+Apart from Terraform infra what else you can automate ?
+
+Do you know any scripting?
+
+
+How do you connect your VM with private IP?
+
+What is application gateway? 
+
+How do you patch your VM ?
+
+What is swap space in respect to your Linux VM ? 
+
+Suppose microsoft is announcing some new updates regarding azure services in future ,where will you get those updates? Which page of which website?
+
+How have you configured your backups?
+Where are your VMs located? Which location?
+
+Where is your DR servers located?
+
+How have you setup monitoring for VMs?
+
+How will you configure that in azure using service like azure monitor?
+
+What is difference between automation account and function app?
+
+How will you horizontally scale your app services ?
+
+How do you access storage account? How it is configured securely?
+
+How do you manage your state file in Terraform?
+
+if you wanna create 10 VM for linux 10 VM for windows using Terraform and also they can communicate with each other. Also allow the port 80, 443, 3389. How will you deploy this?
